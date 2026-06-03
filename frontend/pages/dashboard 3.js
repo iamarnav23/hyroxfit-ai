@@ -291,7 +291,7 @@ export default function DashboardPage() {
               Performance Dashboard
             </p>
             <h1 className="mt-3 text-4xl font-black uppercase text-white md:text-6xl">
-              Zone 5 Control Room
+              Rox Zone Control Room
             </h1>
             <p className="mt-5 leading-8 text-white/70">
               Logged in as{" "}

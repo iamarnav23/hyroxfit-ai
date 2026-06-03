@@ -1,6 +1,6 @@
-# HYROXFit AI Frontend
+# Rox Zone Frontend
 
-Stage 6 frontend for HYROXFit AI with Supabase Auth.
+Frontend for Rox Zone with Supabase Auth.
 
 ## Run
 

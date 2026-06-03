@@ -79,7 +79,7 @@ export default function Home() {
 
       <section id="how-it-works" className="mx-auto max-w-7xl px-5 py-20">
         <SectionTitle kicker="HYROX Planner" title="From Input To Race Plan">
-          Zone 5 turns your current level, race target, and weak stations
+          Rox Zone turns your current level, race target, and weak stations
           into a structured training plan you can actually follow.
         </SectionTitle>
 
@@ -123,7 +123,7 @@ export default function Home() {
         <div className="mx-auto grid max-w-7xl gap-10 lg:grid-cols-[0.9fr_1.1fr]">
           <div>
             <p className="text-sm font-black uppercase tracking-[0.28em] text-electric">
-              Why Zone 5
+              Why Rox Zone
             </p>
             <h2 className="mt-3 text-4xl font-black uppercase leading-tight md:text-5xl">
               Built For The Race, Not Generic Fitness.

@@ -10,8 +10,8 @@ from routes.progress_routes import router as progress_router
 
 
 app = FastAPI(
-    title="HYROXFit AI Backend",
-    description="Backend MVP for personalized HYROX race preparation planning.",
+    title="Rox Zone Backend",
+    description="Backend for personalized HYROX race preparation planning.",
     version="1.0.0",
 )
 
@@ -19,7 +19,7 @@ app = FastAPI(
 @app.get("/")
 def health_check():
     """Simple route to confirm that the backend server is running."""
-    return {"message": "HYROXFit AI Backend is running"}
+    return {"message": "Rox Zone Backend is running"}
 
 
 # Routes are split by feature so the backend stays simple as it grows.

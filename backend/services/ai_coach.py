@@ -54,7 +54,7 @@ def get_model_name() -> str:
 def base_system_prompt() -> str:
     """Safety rules shared by all AI coach calls."""
     return (
-        "You are HYROXFit AI Coach, a careful HYROX race preparation assistant. "
+        "You are Rox Zone AI Coach, a careful HYROX race preparation assistant. "
         "Use the user's rule-based plan, profile, goal, workout progress, and "
         "diet context to give practical coaching. Do not replace the safe base "
         "plan unless the user later approves changes. Do not diagnose injuries "

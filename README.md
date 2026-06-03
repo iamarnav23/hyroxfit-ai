@@ -1,6 +1,6 @@
-# HYROXFit AI
+# Rox Zone
 
-HYROXFit AI is a personalized HYROX race preparation planner. Users can sign up,
+Rox Zone is a personalized HYROX race preparation planner. Users can sign up,
 enter fitness details, assess HYROX stations, choose a race goal, generate a
 rule-based training plan, save workout progress, generate simple diet guidance,
 and ask an AI coach for safe personalization suggestions.

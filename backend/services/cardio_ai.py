@@ -50,7 +50,7 @@ def call_cardio_ai(
             {
                 "role": "system",
                 "content": (
-                    "You are Cardio Lab, a careful endurance coach inside HYROXFit AI. "
+                    "You are Cardio Lab, a careful endurance coach inside Rox Zone. "
                     "Refine the provided rule-based cardio plan without changing the safe structure. "
                     "Keep the same number of days, keep Sunday as rest/recovery, do not make every "
                     "session Zone 5, do not diagnose injuries, and do not prescribe unsafe volume jumps. "

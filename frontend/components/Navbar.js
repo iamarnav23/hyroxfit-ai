@@ -68,7 +68,7 @@ export default function Navbar() {
           </span>
           <div>
             <p className="text-sm font-black uppercase tracking-[0.22em] text-white">
-              Zone 5
+              Rox Zone
             </p>
             <p className="text-xs font-semibold uppercase tracking-[0.18em] text-white/50">
               Performance Lab
