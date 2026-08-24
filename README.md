@@ -36,3 +36,6 @@ I also integrated the OpenAI API through the FastAPI backend to power the AI Coa
 8. Ask AI Coach
    Users can ask for safer plan changes, diet adjustments, or coaching advice based on their progress.
 
+
+### LINK FOR THE WEBSITE : https://hyroxfit-ai.vercel.app/ 
+
